@@ -16,7 +16,7 @@
 - 🎓 I will be graduating in 2023 from Imperial College London and ETH Zürich with a MSci degree in Mathematics.
 - 📚 I am currently pursuing my third year at ETH Zürich.
 - ⚡ I am mostly interested in Problem Solving and Data Science.
-- 🎲 In my free time, I love traveling 🌇, playing sports and watch Formula 1.
+- 🎲 In my free time, I love traveling 🌇, playing sports :running_man: and watch Formula 1 :racing_car:.
 ---
 
 <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
