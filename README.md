@@ -45,8 +45,7 @@
  
 ### Contributions Calendar 📆
 
-[![isometric-calendar](https://github.com/yanismiraoui/yanismiraoui/blob/main/github-metrics.svg)](https://github.com/yanismiraoui/yanismiraoui/blob/main/github-metrics.svg)
-
+![Metrics](https://github.com/yanismiraoui/yanismiraoui/blob/master/github-metrics.svg)
   
 ---
 
