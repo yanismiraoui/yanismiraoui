@@ -81,6 +81,6 @@
 
 --- 
 
-[website]: https://yanismiraoui.github.io/
+[website]: https://yanismiraoui.github.io
 [linkedin]: https://www.linkedin.com/in/yanis-miraoui-54377a1b8/
 
