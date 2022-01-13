@@ -23,7 +23,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/yayaney27)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yayaney27&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
