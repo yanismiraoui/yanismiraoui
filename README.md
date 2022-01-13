@@ -29,7 +29,7 @@
 
 <br/>
 
-  <h2 align="left"> Github Statistics 📈  <img align="right" src="![Visitor Count](https://profile-counter.glitch.me/yanismiraoui/count.svg)"/> </h2>
+  <h2 align="left"> Github Statistics 📈  <img align="right" src="https://profile-counter.glitch.me/yanismiraoui/count.svg"/> </h2>
   
   <div align="center"> 
      <a href="">
