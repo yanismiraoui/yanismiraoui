@@ -17,13 +17,13 @@
 - 📚 I am currently pursuing my third year at ETH Zürich.
 - ⚡ I am mostly interested in Problem Solving and Data Science.
 - 🎲 In my free time, I love traveling 🌇, playing sports :running_man: and watching Formula 1 :racing_car:.
----
-
-<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Projects to come 📂
 - ASVZ Automatic booker 🤖
 - NLP ETHZ Cheatsheet 📓
+---
+<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 
 ### Spotify Playing 🎧
 
