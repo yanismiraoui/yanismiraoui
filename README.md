@@ -18,7 +18,7 @@
 - ⚡ I am mostly interested in Problem Solving and Data Science.
 - 🎲 In my free time, I love traveling 🌇, playing sports :running_man: and watching Formula 1 :racing_car:.
 
-### Projects to come 📂 🚀
+### Projects to come 🚀
 - ASVZ Automatic booker 🤖
 - NLP ETHZ Cheatsheet 📓
 - Advanced Machine Learning Projects 📚
