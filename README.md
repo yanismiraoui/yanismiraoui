@@ -21,6 +21,7 @@
 ### Projects recently uploaded 🌟
 - [NLP ETHZ Cheatsheet](https://github.com/yanismiraoui/nlp_ethz_cheatsheet) 📓
 - [Research project: Analyzing sports commentary to automatically recognize events and extract insights](https://github.com/yanismiraoui/Analyzing-sports-commentary-in-order-to-automatically-recognize-events-and-extract-insights) ⚽⛹️
+   - ↪️ [With its demo](https://github.com/yanismiraoui/dash-models) 💻
 
 ### Projects to come 🚀
 - ASVZ Automatic booker 🤖
