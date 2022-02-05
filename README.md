@@ -19,8 +19,8 @@
 - 🎲 In my free time, I love traveling 🌇, playing sports :running_man: and watching Formula 1 :racing_car:.
 
 ### Projects recently uploaded 🌟
-- NLP ETHZ Cheatsheet 📓 [here](https://github.com/yanismiraoui/nlp_ethz_cheatsheet)
-- Research project: Analyzing sports commentary to automatically recognize events and extract insights ⚽⛹️ [here](https://github.com/yanismiraoui/Analyzing-sports-commentary-in-order-to-automatically-recognize-events-and-extract-insights)
+- [NLP ETHZ Cheatsheet](https://github.com/yanismiraoui/nlp_ethz_cheatsheet) 📓
+- [Research project: Analyzing sports commentary to automatically recognize events and extract insights](https://github.com/yanismiraoui/Analyzing-sports-commentary-in-order-to-automatically-recognize-events-and-extract-insights) ⚽⛹️
 
 ### Projects to come 🚀
 - ASVZ Automatic booker 🤖
