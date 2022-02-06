@@ -25,7 +25,6 @@
 
 ### Projects to come 🚀
 - ASVZ Automatic booker 🤖
-- NLP ETHZ Cheatsheet 📓
 - Advanced Machine Learning Projects 📚
 - Probabilistic Artificial Intelligence Projects 📚
 ---
