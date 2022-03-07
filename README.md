@@ -27,6 +27,7 @@
 
 ### Projects to come 🚀
 - ASVZ Automatic booker 🤖
+- Introduction to Machine Learning Projects 📚
 
 ---
 <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
