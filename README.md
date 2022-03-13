@@ -26,7 +26,7 @@
    - ↪️ [With its demo](https://github.com/yanismiraoui/dash-models) 💻
 
 ### Projects to come 🚀
-- ASVZ Automatic booker 🤖
+- ASVZ Automatic booker 🤖 (contact me if you already want access to this bot)
 - Introduction to Machine Learning Projects 📚
 
 ---
