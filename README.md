@@ -26,7 +26,7 @@
    - ↪️ [With its demo](https://github.com/yanismiraoui/dash-models) 💻
 
 ### Projects to come 🚀
-- [ASVZ Automatic booker 🤖](https://asvz-booker.herokuapp.com/) (contact me if you already want access to this bot 📬)
+- [ASVZ Automatic booker 🤖](https://asvz-booker.herokuapp.com/) :arrow_right: Username: **"Yanis"** / Password: **""** (contact me if you already want access to the code of this bot 📬)
 - Introduction to Machine Learning Projects 📚
 
 ---
