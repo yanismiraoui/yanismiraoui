@@ -27,15 +27,12 @@
 - [ASVZ Automatic booker 🤖](https://asvz-booker.herokuapp.com/) :arrow_right: Username: **"Yanis"** / Password: **""** (contact me if you already want access to the code of this bot 📬)
 - Introduction to Machine Learning Projects 📚
 
----
-
-### Spotify Playing 🎧
-
 <br/>
+
+## Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yayaney27&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
----
 
 <br/>
 
@@ -53,8 +50,6 @@
 <br/>
 <br/>
  
- ---
- 
  ## Streak Stats 🔥
  
  <br/>
@@ -64,9 +59,7 @@
  
 <br/>
  
----
- 
-### Contributions Calendar 📆
+## Contributions Calendar 📆
 
 ![Metrics](https://github.com/yanismiraoui/yanismiraoui/blob/master/github-metrics.svg)
 
