@@ -8,7 +8,6 @@
  </h1>
 <br />
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GIF" align="right" height="235px"/>
 
 ## I am a MSci Mathematics Student at Imperial College London and ETH Zürich
 
@@ -30,12 +29,9 @@
 
 ---
 
-
 ### Spotify Playing 🎧
 
-<p align="right">
-  <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-</p>
+<br/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yayaney27&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
