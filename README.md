@@ -8,8 +8,9 @@
  </h1>
 <br />
 
-
-<img align="right" alt="GIF" height="235px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<p align="right">
+  <img alt="GIF" height="235px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+</p>
 
 ## I am a MSci Mathematics Student at Imperial College London and ETH Zürich
 
@@ -30,10 +31,13 @@
 - Introduction to Machine Learning Projects 📚
 
 ---
-<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 
 ### Spotify Playing 🎧
+
+<p align="right">
+  <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+</p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yayaney27&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
@@ -53,8 +57,20 @@
 </div
 
 <br/>
- <br/>
+<br/>
  
+ ---
+ 
+ ## Streak Stats 🔥
+ 
+ <br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanismiraoui&theme=algolia"/>
+</p>
+ 
+<br/>
+ 
+---
 ### Contributions Calendar 📆
 
 ![Metrics](https://github.com/yanismiraoui/yanismiraoui/blob/master/github-metrics.svg)
