@@ -8,9 +8,7 @@
  </h1>
 <br />
 
-<p align="right">
-  <img alt="GIF" height="235px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-</p>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GIF" align="right" height="235px"/>
 
 ## I am a MSci Mathematics Student at Imperial College London and ETH Zürich
 
@@ -71,14 +69,11 @@
 <br/>
  
 ---
+ 
 ### Contributions Calendar 📆
 
 ![Metrics](https://github.com/yanismiraoui/yanismiraoui/blob/master/github-metrics.svg)
 
- 
- 
- 
- 
  
  
 ---
