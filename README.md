@@ -65,7 +65,7 @@
  
  <br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanismiraoui&theme=algolia"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanismiraoui&theme=elegant"/>
 </p>
  
 <br/>
