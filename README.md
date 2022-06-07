@@ -1,6 +1,6 @@
 <h1> Hi there, I'm <a  style="display: inline;"  href="https://yanismiraoui.github.io/"> Yanis Miraoui
-</a> <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  <a  style="display: inline;"  href="mailto:yanis.miraoui19@imperial.ac.uk">
- <img align="right"  width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/gmail.svg" />
+</a> <img height="40px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  <a  style="display: inline;"  href="mailto:yanis.miraoui19@imperial.ac.uk">
+ <img align="right"  height="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yanis-miraoui-54377a1b8/">
   <img align="right" alt="Yanis Miraoui | LinkedIn" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/linkedin.svg" />
@@ -8,6 +8,7 @@
  </h1>
 <br />
 
+<img align="right" alt="GIF" height="280px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I am a MSci Mathematics Student at Imperial College London and ETH Zürich
 
@@ -29,7 +30,10 @@
 
 <br/>
 
+
 ## Spotify Playing 🎧
+
+<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yayaney27&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
@@ -61,9 +65,9 @@
  
 ## Contributions Calendar 📆
 
-![Metrics](https://github.com/yanismiraoui/yanismiraoui/blob/master/github-metrics.svg)
-
- 
+ <div align="center"> 
+  <img src="https://github.com/yanismiraoui/yanismiraoui/blob/master/github-metrics.svg" alt=""></img>
+ </div
  
 ---
 
