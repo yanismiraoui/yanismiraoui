@@ -8,7 +8,7 @@
  </h1>
 <br />
 
-<img align="right" alt="GIF" height="280px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="270px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I am a MSci Mathematics Student at Imperial College London and ETH Zürich
 
