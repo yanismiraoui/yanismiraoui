@@ -10,7 +10,7 @@
 
 <img align="right" alt="GIF" height="270px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I am a MSci Mathematics Student at Imperial College London 🇬🇧 and ETH Zürich 🇨🇭
+## I am a MSci Mathematics Student at Imperial College London and ETH Zürich
 
 - 🎓 I will be graduating in 2023 from Imperial College London and ETH Zürich with a MSci degree in Mathematics.
 - 📚 I am currently pursuing my third year at ETH Zürich.
