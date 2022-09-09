@@ -26,7 +26,7 @@
 
 ### Projects to come 🚀
 - [ASVZ Automatic booker 🤖](https://asvz-booker.herokuapp.com/) :arrow_right: Username: **"Yanis"** / Password: **""** (contact me if you already want access to the code of this bot 📬)
-- Introduction to Machine Learning Projects 📚
+- [Introduction to Machine Learning Projects 📚](https://github.com/yanismiraoui/Intro-to-ML-Projects-ETHZ)
 
 <br/>
 
