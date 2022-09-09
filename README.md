@@ -23,10 +23,11 @@
 - [NLP ETHZ Cheatsheet](https://github.com/yanismiraoui/nlp_ethz_cheatsheet) 📓
 - [NLP Research project: Analyzing sports commentary to automatically recognize events and extract insights](https://github.com/yanismiraoui/Analyzing-sports-commentary-in-order-to-automatically-recognize-events-and-extract-insights) ⚽⛹️
    - ↪️ [With its demo](https://github.com/yanismiraoui/dash-models) 💻
+- [Introduction to Machine Learning Projects 📚](https://github.com/yanismiraoui/Intro-to-ML-Projects-ETHZ)
 
 ### Projects to come 🚀
 - [ASVZ Automatic booker 🤖](https://asvz-booker.herokuapp.com/) :arrow_right: Username: **"Yanis"** / Password: **""** (contact me if you already want access to the code of this bot 📬)
-- [Introduction to Machine Learning Projects 📚](https://github.com/yanismiraoui/Intro-to-ML-Projects-ETHZ)
+- NFT Trading 🎴💲
 
 <br/>
 
