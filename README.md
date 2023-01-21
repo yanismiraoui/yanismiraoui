@@ -13,7 +13,7 @@
 ## I am a MSci Mathematics Student at Imperial College London and ETH Zürich
 
 - 🎓 I will be graduating in 2023 from Imperial College London and ETH Zürich with a MSci degree in Mathematics.
-- 📚 I am currently pursuing my third year at ETH Zürich.
+- 📚 I am currently pursuing my fourth year at Imperial College London.
 - ⚡ I am mostly interested in Problem Solving and Data Science.
 - 🎲 In my free time, I love traveling 🌇, playing sports :running_man: and watching Formula 1 :racing_car:.
 
