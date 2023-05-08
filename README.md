@@ -10,9 +10,10 @@
 
 <img align="right" alt="GIF" height="270px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I am a MSci Mathematics Student at Imperial College London and ETH Zürich
+## I am a MSci Mathematics Student at Imperial College London and ETH Zürich and prospective MS in Data Science at Stanford University
 
 - 🎓 I will be graduating in 2023 from Imperial College London and ETH Zürich with a MSci degree in Mathematics.
+- 🇺🇸 I will be studying a MS in Data Science at Stanford University in September 2023. 🌉
 - 📚 I am currently pursuing my fourth year at Imperial College London.
 - ⚡ I am mostly interested in Problem Solving and Data Science.
 - 🎲 In my free time, I love traveling 🌇, playing sports :running_man: and watching Formula 1 :racing_car:.
