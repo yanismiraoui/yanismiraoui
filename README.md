@@ -1,10 +1,15 @@
 <h1> Hi there, I'm <a  style="display: inline;"  href="https://yanismiraoui.github.io/"> Yanis Miraoui
-</a> <img height="40px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />  <a  style="display: inline;"  href="mailto:yanis.miraoui19@imperial.ac.uk">
+</a> <img height="40px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> 
+ <a href="https://replit.com/@yanismiraoui">
+  <img align="right" alt="Yanis Miraoui | Replit" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/78/New_Replit_Logo.svg" />
+</a>
+ <a  style="display: inline;"  href="mailto:yanis.miraoui19@imperial.ac.uk">
  <img align="right"  height="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yanis-miraoui-54377a1b8/">
   <img align="right" alt="Yanis Miraoui | LinkedIn" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/linkedin.svg" />
 </a>
+ </a>
  </h1>
 <br />
 
