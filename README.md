@@ -33,7 +33,7 @@
 ### Projects to come 🚀
 - NFT Trading 🎴💲
 - [M4R Project: Unsupervised Learning applied to TCR and antigen bindings (SARS-COV2)](https://github.com/yanismiraoui/M4R-Project-Notebooks) 🫁🧬
-   - ↪️ [With its WebApp](https://m4r-dash.yanismiraoui.repl.co/) 💻 
+   - ↪️ [With its WebApp](https://m4r-dash.yanismiraoui.repl.co/) (and ChatBot 🤖) 💻 
 - [Methods for Data Science Projects](https://github.com/yanismiraoui/Methods-for-Data-Science-Projects) 👀 📚
 - [Mathematical Foundations of Machine Learning Projects](https://github.com/yanismiraoui/MFML-Projects) 🖼️
 
