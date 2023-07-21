@@ -1,5 +1,5 @@
 <h1> Hi there, I'm <a  style="display: inline;"  href="https://yanismiraoui.github.io/"> Yanis Miraoui
-</a> <img height="40px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> 
+</a> <img height="38px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> 
  <a href="https://replit.com/@yanismiraoui">
   <img align="right" alt="Yanis Miraoui | Replit" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/78/New_Replit_Logo.svg" />
 </a>
