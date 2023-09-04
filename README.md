@@ -29,7 +29,7 @@
 - [NLP ETHZ Cheatsheet](https://github.com/yanismiraoui/nlp_ethz_cheatsheet) 📓
 - [NLP Research project: Analyzing sports commentary to automatically recognize events and extract insights](https://github.com/yanismiraoui/Analyzing-sports-commentary-in-order-to-automatically-recognize-events-and-extract-insights) ⚽⛹️
    - ↪️ [With its demo](https://github.com/yanismiraoui/dash-models) 💻
-   - ↪️ [Paper](https://arxiv.org/abs/2307.10303) 📄
+   - ↪️ [ArXiv article](https://arxiv.org/abs/2307.10303) 📄
 
 
 ### Projects to come 🚀
