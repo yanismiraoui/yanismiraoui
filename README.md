@@ -35,7 +35,8 @@
 ### Projects to come 🚀
 - NFT Trading 🎴💲
 - [M4R Project: Deep unsupervised learning methods for the identification and characterization of TCR specificity](https://github.com/yanismiraoui/M4R-Project-Notebooks) 🫁🧬
-   - ↪️ [With its WebApp](https://m4r-dash.yanismiraoui.repl.co/) (and ChatBot 🤖) 💻 
+   - ↪️ [With its WebApp](https://m4r-dash.yanismiraoui.repl.co/) (and ChatBot 🤖) 💻
+   - ↪️ [BioRxiv article](https://www.biorxiv.org/content/10.1101/2023.09.05.556326v1) 📄
 
 
 <br/>
