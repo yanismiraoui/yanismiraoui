@@ -17,8 +17,8 @@
 
 ## I am a MS in Data Science student at Stanford University and a recent MSci Mathematics graduate from Imperial College London and ETH Zürich
 
-- 🎓 I have just graduated from Imperial College London and ETH Zürich with a MSci degree in Mathematics. 🥳
-- 🇺🇸 I will be studying a MS in Data Science at Stanford University in September 2023. 🌉
+- 🇺🇸 I am studying a MS in Data Science at Stanford University since September 2023. 🌉
+- 🎓 I have recently graduated from Imperial College London and ETH Zürich with a MSci degree in Mathematics. 🥳
 - ⚡ I am mostly interested in Problem Solving and Data Science.
 - 🎲 In my free time, I love traveling 🌇, playing sports 🏃 and watching Formula 1 :racing_car:.
 
@@ -33,10 +33,11 @@
 
 
 ### Projects to come 🚀
-- NFT Trading 🎴💲
+- Stanford CNS Lab Research Project: Leverage Machine Learning tools (GNNs) for Neuroimaging 🧠
 - [M4R Project: Deep unsupervised learning methods for the identification and characterization of TCR specificity](https://github.com/yanismiraoui/M4R-Project-Notebooks) 🫁🧬
    - ↪️ [With its WebApp](https://m4r-dash.yanismiraoui.repl.co/) (and ChatBot 🤖) 💻
    - ↪️ [BioRxiv article](https://www.biorxiv.org/content/10.1101/2023.09.05.556326v1) 📄
+- NFT Trading 🎴💲
 
 
 <br/>
