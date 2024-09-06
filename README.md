@@ -23,9 +23,6 @@
 - 🎲 In my free time, I love traveling 🌇, playing sports 🏃 and watching Formula 1 :racing_car:.
 
 ### Projects recently uploaded 🌟
-- [Methods for Data Science Projects](https://github.com/yanismiraoui/Methods-for-Data-Science-Projects) 👀 📚
-- [Mathematical Foundations of Machine Learning Projects](https://github.com/yanismiraoui/MFML-Projects) 🖼️
-- [NLP ETHZ Cheatsheet](https://github.com/yanismiraoui/nlp_ethz_cheatsheet) 📓
 - [NLP Research project: Analyzing sports commentary to automatically recognize events and extract insights](https://github.com/yanismiraoui/Analyzing-sports-commentary-in-order-to-automatically-recognize-events-and-extract-insights) ⚽⛹️
    - ↪️ [With its demo](https://github.com/yanismiraoui/dash-models) 💻
    - ↪️ [ArXiv article](https://arxiv.org/abs/2307.10303) 📄
@@ -36,19 +33,18 @@
 
 ### Projects to come 🚀
 - [GitShine App](https://gitshine.com/): *Make your GitHub shine to the world* 🌟
-- [Stanford CNS Lab Research Project: Leverage Machine Learning tools (GNNs) for Neuroimaging 🧠](https://github.com/yanismiraoui/CNS-Research-YM)
+- [Stanford CNS Lab Research Project: SpaRG 🧠](https://github.com/yanismiraoui/SpaRG) (recently published! 🥳)
 - NFT Trading 🎴💲
 
 
 <br/>
 
 
-## Spotify Playing 🎧
+## Spotify 🎧
 
-<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yayaney27&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yayaney27&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true"/>
+</p>
 
 <br/>
 
