@@ -3,7 +3,7 @@
  <a href="https://replit.com/@yanismiraoui">
   <img align="right" alt="Yanis Miraoui | Replit" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/78/New_Replit_Logo.svg" />
 </a>
- <a  style="display: inline;"  href="mailto:yanis.miraoui19@imperial.ac.uk">
+ <a  style="display: inline;"  href="mailto:yanis.miraoui@gmail.com">
  <img align="right"  height="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yanis-miraoui-54377a1b8/">
