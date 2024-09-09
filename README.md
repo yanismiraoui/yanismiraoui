@@ -19,7 +19,7 @@
 
 - 🇺🇸 I am studying a MS in Data Science at Stanford University since September 2023. 🌉
 - 🎓 I have recently graduated from Imperial College London and ETH Zürich with a MSci degree in Mathematics. 🥳
-- ⚡ I am mostly interested in Problem Solving and Data Science.
+- ⚡ I am mostly interested in Problem Solving and Machine Learning.
 - 🎲 In my free time, I love traveling 🌇, playing sports 🏃 and watching Formula 1 :racing_car:.
 
 ### Projects recently uploaded 🌟
@@ -99,6 +99,7 @@
  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2300C0FF.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -106,6 +107,8 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
+
   
 <br/>
 
