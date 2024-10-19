@@ -117,3 +117,4 @@
 [website]: https://yanismiraoui.github.io
 [linkedin]: https://www.linkedin.com/in/yanis-miraoui-54377a1b8/
 
+<img src="https://komarev.com/ghpvc/?username=yanismiraoui&style=flat-square">
