@@ -35,7 +35,7 @@
 ### Projects to come 🚀
 - [RecruiTree App 🌲](https://recruitree.replit.app/): *Grow your career presence! 🌱💼*
    - LLM agent able to create and deployed personalized portfolio websites in less than 5 minutes as well as enhance GitHub profiles from your resume
-- [GitShine App](https://gitshine.com/): *Make your GitHub shine to the world* 🌟
+- [GitShine App ✨](https://gitshine.com/): *Make your GitHub shine to the world* 🌟
    - Automated daily commits and stars for your repositories 🔁
 - NFT Trading 🎴💲
 
