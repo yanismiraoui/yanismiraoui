@@ -33,7 +33,7 @@
 
 
 ### Projects to come 🚀
-- [RecruiTree App 🌲](https://recruitree.replit.app/): *Get RecruiTree'd! 💼*
+- [RecruiTree App 🌲](https://recruitree.replit.app/): *Grow your career presence! 🌱💼*
 - [GitShine App](https://gitshine.com/): *Make your GitHub shine to the world* 🌟
 - NFT Trading 🎴💲
 
