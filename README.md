@@ -23,6 +23,8 @@
 - 🎲 In my free time, I love traveling 🌇, playing sports 🏃 and watching Formula 1 :racing_car:.
 
 ### Projects recently uploaded 🌟
+- [GitShine App ✨](https://gitshine.com/): *Make your GitHub shine to the world* 🌟
+   - Automated daily commits and stars for your repositories 🔁
 - [Stanford CNS Lab Research Project: SpaRG 🧠](https://github.com/yanismiraoui/SpaRG) (recently published! 🥳)
 - [NLP Research project: Analyzing sports commentary to automatically recognize events and extract insights](https://github.com/yanismiraoui/Analyzing-sports-commentary-in-order-to-automatically-recognize-events-and-extract-insights) ⚽⛹️
    - ↪️ [With its demo](https://github.com/yanismiraoui/dash-models) 💻
@@ -35,8 +37,6 @@
 ### Projects to come 🚀
 - [RecruiTree App 🌲](https://recruitree.replit.app/): *Grow your career presence! 🌱💼*
    - LLM agent able to create and deploy personalized portfolio websites in less than 5 minutes from your resume
-- [GitShine App ✨](https://gitshine.com/): *Make your GitHub shine to the world* 🌟
-   - Automated daily commits and stars for your repositories 🔁
 - NFT Trading 🎴💲
 
 
