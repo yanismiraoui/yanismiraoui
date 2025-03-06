@@ -15,7 +15,7 @@
 
 <img align="right" alt="GIF" height="270px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I am a MS in Data Science student at Stanford University and a recent MSci Mathematics graduate from Imperial College London and ETH Zürich
+## I am a MS in Statistics & Data Science student at Stanford University and a Member of Technical Staff at Inception Labs 🚀
 
 - 🇺🇸 I am studying a MS in Data Science at Stanford University since September 2023. 🌉
 - 🎓 I have recently graduated from Imperial College London and ETH Zürich with a MSci degree in Mathematics. 🥳
@@ -25,18 +25,16 @@
 ### Projects recently uploaded 🌟
 - [GitShine App ✨](https://gitshine.com/): *Make your GitHub shine to the world* 🌟
    - Automated daily commits and stars for your repositories 🔁
+- [RecruiTree App 🌲](https://recruitree.replit.app/): *Grow your career presence! 🌱💼*
+   - LLM agent able to create and deploy personalized portfolio websites in less than 5 minutes from your resume
 - [Stanford CNS Lab Research Project: SpaRG 🧠](https://github.com/yanismiraoui/SpaRG) (recently published! 🥳)
 - [NLP Research project: Analyzing sports commentary to automatically recognize events and extract insights](https://github.com/yanismiraoui/Analyzing-sports-commentary-in-order-to-automatically-recognize-events-and-extract-insights) ⚽⛹️
    - ↪️ [With its demo](https://github.com/yanismiraoui/dash-models) 💻
    - ↪️ [ArXiv article](https://arxiv.org/abs/2307.10303) 📄
-- [M4R Project: Deep unsupervised learning methods for the identification and characterization of TCR specificity](https://github.com/yanismiraoui/M4R-Project-Notebooks) 🫁🧬
-   - ↪️ [With its WebApp](https://m4r-dash.yanismiraoui.repl.co/) (and ChatBot 🤖) 💻
-   - ↪️ [BioRxiv article](https://www.biorxiv.org/content/10.1101/2023.09.05.556326v1) 📄
 
 
 ### Projects to come 🚀
-- [RecruiTree App 🌲](https://recruitree.replit.app/): *Grow your career presence! 🌱💼*
-   - LLM agent able to create and deploy personalized portfolio websites in less than 5 minutes from your resume
+- FarmBrief Discord Bot
 - NFT Trading 🎴💲
 
 
