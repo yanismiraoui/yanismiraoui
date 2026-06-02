@@ -33,11 +33,6 @@
    - ↪️ [ArXiv article](https://arxiv.org/abs/2307.10303) 📄
 
 
-### Projects to come 🚀
-- FarmBrief Discord Bot
-- NFT Trading 🎴💲
-
-
 <br/>
 
 
