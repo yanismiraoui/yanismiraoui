@@ -17,7 +17,7 @@
 
 ## I am currently a Member of Technical Staff at Inception 🪐
 
-- 🪐 I work on diffusion based LLM models at [Inception](https://www.inceptionlabs.ai/) since 2024.
+- 🪐 I work on diffusion based LLM models at [Inception](https://www.inceptionlabs.ai/) since 2024. We're hiring!
 - 🇺🇸 I graduated from a MS in Statistics at Stanford University in 2025. 🌉
 - ⚡ I am mostly interested in Problem Solving and Machine Learning.
 - 🎲 In my free time, I love playing and watching sports. ⚽️
