@@ -15,23 +15,22 @@
 
 <img align="right" alt="GIF" height="270px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I am a MS in Statistics & Data Science student at Stanford University and a Member of Technical Staff at Inception Labs 🚀
+## I am currently a Member of Technical Staff at Inception 🪐
 
-- 🇺🇸 I am studying a MS in Data Science at Stanford University since September 2023. 🌉
-- 🎓 I have recently graduated from Imperial College London and ETH Zürich with a MSci degree in Mathematics. 🥳
+- 🪐 I work on diffusion based LLM models at [Inception](https://www.inceptionlabs.ai/) since 2024.
+- 🇺🇸 I graduated from a MS in Statistics at Stanford University in 2025. 🌉
 - ⚡ I am mostly interested in Problem Solving and Machine Learning.
-- 🎲 In my free time, I love traveling 🌇, playing sports 🏃 and watching Formula 1 :racing_car:.
+- 🎲 In my free time, I love playing and watching sports. ⚽️
 
 ### Projects recently uploaded 🌟
 - [GitShine App ✨](https://gitshine.com/): *Make your GitHub shine to the world* 🌟
    - Automated daily commits and stars for your repositories 🔁
-- [RecruiTree App 🌲](https://recruitree.replit.app/): *Grow your career presence! 🌱💼*
-   - LLM agent able to create and deploy personalized portfolio websites in less than 5 minutes from your resume
-- [Stanford CNS Lab Research Project: SpaRG 🧠](https://github.com/yanismiraoui/SpaRG) (recently published! 🥳)
+- Fully private PDF editor: [PaperKit](https://www.trypaperkit.com/)
+- Learn more about GPUs: [Tensorlight](https://tensorlight.dev/)
+- Free StreamPlayer App for iOS, macOS and tvOS: Soon!
 - [NLP Research project: Analyzing sports commentary to automatically recognize events and extract insights](https://github.com/yanismiraoui/Analyzing-sports-commentary-in-order-to-automatically-recognize-events-and-extract-insights) ⚽⛹️
    - ↪️ [With its demo](https://github.com/yanismiraoui/dash-models) 💻
-   - ↪️ [ArXiv article](https://arxiv.org/abs/2307.10303) 📄
-
+   - ↪️ [ArXiv article](https://arxiv.org/abs/2307.10303)
 
 <br/>
 
@@ -49,9 +48,6 @@
   <div align="center"> 
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yanismiraoui&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yanismiraoui&theme=react&line_height=40&hide=css"/>
     </a>
 </div
 
@@ -92,7 +88,7 @@
 ---
  
 ### Tools 🛠 
- 
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%2300C0FF.svg?style=for-the-badge&logo=snowflake&logoColor=white)
