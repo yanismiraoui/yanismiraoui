@@ -42,6 +42,8 @@
 
 ### Research
 
+- **[Mercury: Ultra-Fast Language Models Based on Diffusion](https://arxiv.org/abs/2506.17298)** — Co-authored the report introducing Mercury, a family of diffusion language models that generates tokens in parallel for fast text generation. (2025)
+- **[SpaRG: Sparsely Reconstructed Graphs for Generalizable fMRI Analysis](https://arxiv.org/abs/2410.07201)** — Co-first author. Combines sparsification and self-supervision to identify informative brain connections that generalize across fMRI acquisition sites. (MICCAI 2024) · [Code](https://github.com/yanismiraoui/SpaRG)
 - [NLP Research project: Analyzing sports commentary to automatically recognize events and extract insights](https://github.com/yanismiraoui/Analyzing-sports-commentary-in-order-to-automatically-recognize-events-and-extract-insights) ⚽⛹️
    - ↪️ [With its demo](https://github.com/yanismiraoui/dash-models) 💻
    - ↪️ [ArXiv article](https://arxiv.org/abs/2307.10303)
@@ -52,75 +54,23 @@
 ## Spotify 🎧
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yayaney27&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true"/>
+  <a href="https://open.spotify.com/user/yayaney27">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yayaney27&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="My Spotify listening activity — open my Spotify profile" />
+  </a>
 </p>
 
-<br/>
+## GitHub Statistics 📈
 
-  <h2 align="left"> Github Statistics 📈  <img align="right" src="https://komarev.com/ghpvc/?username=yanismiraoui"/> </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yanismiraoui&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-</div
-
-<br/>
-<br/>
- 
- ## Streak Stats 🔥
- 
- <br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanismiraoui&theme=react"/>
+  <a href="https://github.com/yanismiraoui?tab=repositories">
+    <img src="./github-metrics.svg" alt="Yanis Miraoui's GitHub activity, repository statistics, and contributions calendar" />
+  </a>
 </p>
- 
-<br/>
- 
-## Contributions Calendar 📆
 
- <div align="center"> 
-  <img src="https://github.com/yanismiraoui/yanismiraoui/blob/master/github-metrics.svg" alt=""></img>
- </div
- 
----
+## Streak Stats 🔥
 
-### Languages 💻 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanismiraoui&theme=react" alt="GitHub contribution streak statistics" />
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-<br/>
-
----
- 
-### Tools 🛠 
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-%2300C0FF.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-
-
-  
-<br/>
-
---- 
-
-[website]: https://yanismiraoui.github.io
-[linkedin]: https://www.linkedin.com/in/yanis-miraoui-54377a1b8/
-
-<img src="https://komarev.com/ghpvc/?username=yanismiraoui&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=yanismiraoui&style=flat-square" alt="Profile views" />
