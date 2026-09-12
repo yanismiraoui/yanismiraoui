@@ -11,6 +11,9 @@
 </a>
  </a>
  </h1>
+
+<img src="https://komarev.com/ghpvc/?username=yanismiraoui&style=flat-square" alt="Profile views" />
+
 <br />
 
 <img align="right" alt="GIF" height="270px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -72,5 +75,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanismiraoui&theme=react" alt="GitHub contribution streak statistics" />
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=yanismiraoui&style=flat-square" alt="Profile views" />
