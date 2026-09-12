@@ -22,12 +22,26 @@
 - ⚡ I am mostly interested in Problem Solving and Machine Learning.
 - 🎲 In my free time, I love playing and watching sports. ⚽️
 
-### Projects recently uploaded 🌟
-- [GitShine App ✨](https://gitshine.com/): *Make your GitHub shine to the world* 🌟
-   - Automated daily commits and stars for your repositories 🔁
-- Fully private PDF editor: [PaperKit](https://www.trypaperkit.com/)
-- Learn more about GPUs: [Tensorlight](https://tensorlight.dev/)
-- Free StreamPlayer App for iOS, macOS and tvOS: Soon!
+### Featured projects
+
+- **[BenchLeader](https://www.benchleader.com/)** — Compare AI models across published benchmarks, speed, latency, and cost in one leaderboard.
+- **[PennyOCR](https://pennyocr.com/)** — Turn PDFs and images into text and Markdown with an OCR API built for developers and AI agents.
+- **[Tensorlight](https://tensorlight.dev/)** — Explore AI GPUs, memory, and inference through interactive 3D models and visual explanations.
+- **[PaperKit](https://www.trypaperkit.com/)** — Merge, split, crop, sign, and convert PDFs with tools that process documents locally in your browser.
+- **[Idiomesh](https://idiomesh.vercel.app/studio)** — Generate native Python and TypeScript SDKs from OpenAPI. Try the live compiler; hosted automation is in private beta.
+- **[GitShine](https://gitshine.com/)** — Schedule GitHub commits, customize their messages and cadence, and discover projects through the community.
+- **[Unmark](https://unmark.dev/)** — Clean hidden Unicode characters from text and rewrite AI-generated prose with adjustable strength.
+- **[OPT Pulse](https://stem-opt-pulse.vercel.app/)** — Explore community-reported OPT and STEM OPT timelines, compare similar cases, and estimate processing windows.
+
+### Coming soon
+
+- **[Hourra!](https://hourra-chi.vercel.app/)** — Bring wearable data together to explore sleep, recovery, activity, and longer-term health trends.
+- **[Voiceflint](https://voiceflint.com/)** — Build voice agents for phone and web with flexible model choices and clear call costs and latency.
+- **[Everscene](https://everscene.app/)** — Turn Apple TV into an ambient display, with an iPhone companion for creating and sharing AI scenes.
+- **[Zapline](https://zapline.app/)** — A native IPTV player for your own playlists on iPhone, iPad, Mac, and Apple TV, with a program guide and catch-up playback.
+
+### Research
+
 - [NLP Research project: Analyzing sports commentary to automatically recognize events and extract insights](https://github.com/yanismiraoui/Analyzing-sports-commentary-in-order-to-automatically-recognize-events-and-extract-insights) ⚽⛹️
    - ↪️ [With its demo](https://github.com/yanismiraoui/dash-models) 💻
    - ↪️ [ArXiv article](https://arxiv.org/abs/2307.10303)
