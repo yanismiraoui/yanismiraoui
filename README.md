@@ -75,9 +75,3 @@
     <img src="./github-metrics.svg" alt="Yanis Miraoui's GitHub activity, repository statistics, and contributions calendar" />
   </a>
 </p>
-
-## Streak Stats 🔥
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanismiraoui&theme=react" alt="GitHub contribution streak statistics" />
-</p>
