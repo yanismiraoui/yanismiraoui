@@ -65,6 +65,12 @@
 ## GitHub Statistics 📈
 
 <p align="center">
+  <a href="https://gitshine.com/stats/yanismiraoui">
+    <img src="https://gitshine.com/card/yanismiraoui" alt="Yanis Miraoui's GitHub stats: contribution graph, streaks, stars and top languages" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/yanismiraoui?tab=repositories">
     <img src="./github-metrics.svg" alt="Yanis Miraoui's GitHub activity, repository statistics, and contributions calendar" />
   </a>
