@@ -33,6 +33,10 @@
    - ↪️ [With its demo](https://github.com/yanismiraoui/dash-models) 💻
    - ↪️ [ArXiv article](https://arxiv.org/abs/2307.10303)
 
+### Side projects
+
+- **[PaperKit](https://www.trypaperkit.com/)** – free PDF tools that run 100% in your browser: merge, compress, sign, scan, OCR, protect. No upload, no account.
+
 <br/>
 
 
