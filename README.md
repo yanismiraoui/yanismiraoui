@@ -33,6 +33,11 @@
    - ↪️ [With its demo](https://github.com/yanismiraoui/dash-models) 💻
    - ↪️ [ArXiv article](https://arxiv.org/abs/2307.10303)
 
+### Personal projects
+
+- **[TensorLight](https://tensorlight.dev/)** – an interactive 3D guide to how AI GPUs work: tensor cores, HBM, inference, training at scale, which model fits which GPU, and the companies behind the chips.
+- **[Unmark](https://unmark.dev/)** – a free tool that strips hidden characters and AI watermarks from text. No sign-up.
+
 ### Side projects
 
 - **[PaperKit](https://www.trypaperkit.com/)** – free PDF tools that run 100% in your browser: merge, compress, sign, scan, OCR, protect. No upload, no account.
